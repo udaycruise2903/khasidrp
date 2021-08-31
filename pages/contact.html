@@ -5,20 +5,21 @@ permalink: "/contact/"
 comments: false
 ---
 
-<form action="https://formsubmit.co/el/puvulu" method="POST">
+<form action="https://formsubmit.co/el/puvulu" method="POST" role="form">
 <input type="hidden" name="_template" value="table">    
 <!--<p class="mb-4">Thank you for your interest in getting in touch with us. Please send your message here. We will reply as soon as possible!</p>-->
 <div class="form-group row">
 <div class="col-md-6">
-<input class="form-control mb-3" type="text" name="name" placeholder="Name*" required>
+<input class="form-control mb-3" type="text" name="name" placeholder="Name*" value="" required>
 </div>
 <div class="col-md-6">
-<input class="form-control mb-3" type="email" name="email" placeholder="E-mail Address*" required>
+<input class="form-control mb-3" type="email" name="email" placeholder="E-mail Address*" value="" required>
 </div>
 <div class="col-md-12">
-<input class="form-control" type="text" name="subject" placeholder="Subject*" required>
+<input class="form-control" type="text" name="subject" placeholder="Subject*" value="" required>
+<input type="hidden" name="_subject" value="New submission!">
 </div>
 </div>
-<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
+<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" value="" required></textarea>    
 <input class="btn btn-dark" type="submit" value="Send">
 </form>

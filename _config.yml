@@ -1,7 +1,7 @@
 title: "KhasiDRP"
 email: udaycruise2903@gmail.com
 timezone: IST
-baseurl: "/khasidrp"
+baseurl: ""
 permalink: "/:title/"
 logo: 'images/logo.png'
 favicon: 'images/favicon.ico'

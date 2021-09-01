@@ -23,7 +23,7 @@ OCR tool was utilised to recognise the characters in the dictionary, then python
 
 This online khasi dictionary was created using the book- Ka Dienshonhi(A Khasi-Khasi Dictionary) by Iarington Kharkongngor, available in internet archives.
 
-### Where to find project resources?
+### Where to find the project resources?
 
 Files and processes used for this dictionary are available in this **<a href="https://github.com/udaycruise2903/khasi-dienshonhi">Github</a>** link.
 

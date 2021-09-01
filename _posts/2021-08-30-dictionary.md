@@ -25,7 +25,7 @@ This online khasi dictionary was created using the book- Ka Dienshonhi(A Khasi-K
 
 ### Where to find project resources?
 
-Files and processes used for this dictionary are available in this **<a href="">Github</a>** link.
+Files and processes used for this dictionary are available in this **<a href="https://github.com/udaycruise2903/khasi-dienshonhi">Github</a>** link.
 
 ### How can you help?
 OCR is not totally accurate. contributions to edit spelling and word errors in the dictionary improves quality of the work. Drop us a message to contribute.
